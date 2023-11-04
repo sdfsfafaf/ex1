@@ -35,7 +35,7 @@ public class Main {
                 System.out.println("К " + i + " неделе будет выпито " + totalVolume + " литров жидкости");
             }
 
-            if(totalVolume >= 160){
+            if(totalVolume >= 120){
                 System.out.println("Студент принят в IT-клуб!");
             }
 
